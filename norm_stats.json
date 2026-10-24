@@ -1,0 +1,14 @@
+{
+  "resolution": 128,
+  "mean": [
+    0.5296,
+    0.4241,
+    0.453
+  ],
+  "std": [
+    0.3359,
+    0.2717,
+    0.2871
+  ],
+  "note": "computed on TRAIN split only, pixels scaled to [0,1], includes black background"
+}
